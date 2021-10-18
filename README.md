@@ -16,4 +16,4 @@ For mobile, a simple overlay to hold the title text over the main image is utili
 
 4. Services List
 
-A quick slick slider is utilised in the services list to ensure all data is displayed in a user friendly way and prevent excessive scrolling. Simple hover animations are utilised to add a pop to the site.
+A quick slick slider is utilised in the services list to ensure all data is displayed in a user friendly way and prevent excessive scrolling. Simple hover animations are utilised to add a pop to the site. A custom post type was created for kitchens in order to ensure that long term changes, additions and deletions of data is quick, easy and user friendly.
